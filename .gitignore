@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+
+.venv
+.venv/
+venv/
+
+.idea/
+
+
+data/Small_Processed_DataSet_with_Prop.csv
+data/Processed_DataSet_with_Properties.csv
+
+!.md
